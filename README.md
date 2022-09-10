@@ -8,4 +8,8 @@
 - User can post new events by selecting a specific location and details of the event.
 - User has a profile page where they can view their own posts and saved posts.
 
-Refer the [Report](https://github.com/Charan000/Agent-Based-Modeling-And-Simulation-of-Drug-Resistant-Diseases/blob/master/Report.pdf) for additional details.
+Refer the [Report](https://github.com/Charan000/Raydius/blob/main/Raydius_Tech_Report.pdf) for additional details.
+
+<img src="https://github.com/Charan000/Raydius/blob/main/output_images/LoginPage.jpg" align="left" alt="Your image title" width="200"/>
+<img src="https://github.com/Charan000/Raydius/blob/main/output_images/MapViewPage2.jpg" align="left" alt="Your image title" width="200"/>
+<img src="https://github.com/Charan000/Raydius/blob/main/output_images/ListViewPage.jpg" align="left" alt="Your image title" width="200"/>

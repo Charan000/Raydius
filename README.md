@@ -8,6 +8,14 @@
 - User can post new events by selecting a specific location and details of the event.
 - User has a profile page where they can view their own posts and saved posts.
 
+# Technologies used
+
+- App Framework: React-Native
+- Programming Language: JavaScript
+- Database: Firestore NoSQL Database
+- Package Manager: NPM
+- Server: Google Cloud Firestore
+
 Refer the [Report](https://github.com/Charan000/Raydius/blob/main/Raydius_Tech_Report.pdf) for additional details.
 
 <img src="https://github.com/Charan000/Raydius/blob/main/output_images/LoginPage.jpg" align="left" alt="Your image title" width="200"/>

@@ -1,0 +1,4 @@
+After adding the feeds code in MessageScreen, certain warnings about timeout showed up. I added temporary code to disable them. 
+There might be a perfoemance issue at a later point because of this. 
+However, I think this needs to be resolved from react-native or firebase side.
+Another work around can be done by increasing timeout in the reactnative js file.
